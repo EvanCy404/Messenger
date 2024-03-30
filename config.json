@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "Yazkybot",
   "FACEBOOK": "https://www.facebook.com/AMIN.SHEIKH.01",
-  "prefix": "✓",
+  "prefix": ",",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
